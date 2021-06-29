@@ -5,7 +5,7 @@ Hola soy Gretel!
 [![GitHub Avluela](https://img.shields.io/github/followers/avluela?label=follow&style=social)](https://github.com/avluela)&nbsp;
   
  
-### 👨🏻‍💻 &nbsp;Sobre mi
+### 👩‍🦰 &nbsp;Sobre mi
 
 💡 &nbsp;Soy desarrolladora web y mobile, y actualmente estoy trabajando en [CODEX SA](https://github.com/codexsadev) como parte del equipo de desarrollo.\
 🎓 &nbsp;Soy autodidacta. En este momento me encuentro haciendo la carrera de desarrollo full stack de manera online.\
