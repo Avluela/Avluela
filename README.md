@@ -11,7 +11,7 @@ Hola soy Gretel!
 🎓 &nbsp;Soy autodidacta. En este momento me encuentro haciendo la carrera de desarrollo full stack de manera online.\
 🌱 &nbsp;En mi tiempo libre leo, dibujo, hago modelados de miniaturas con porcelana fria, juego partidas de rol de mesa y juego videojuegos como pasatiempos.\
 💬 &nbsp;¡No dude en comunicarse conmigo para consultas generales o discusiones sobre los temas antes mencionados!\
-✉️ &nbsp;Puede enviarme un correo electrónico a graceneighborhood@gmail.com. ¡Intentaré responder lo antes posible!
+✉️ &nbsp;Puede enviarme un correo electrónico a gretelbarrios.dev@gmail.com. ¡Intentaré responder lo antes posible!
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -39,5 +39,5 @@ Hola soy Gretel!
 <p>
 &nbsp; <a href="https://www.instagram.com/gretelavluela/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/gretel-barrios-70b10b213" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:graceneighborhood@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:gretelbarrios.dev@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
