@@ -7,7 +7,7 @@ Hola soy Gretel!
  
 ### 👩‍🦰 &nbsp;Sobre mi
 
-💡 &nbsp;Soy desarrolladora web y mobile, y actualmente estoy trabajando en [CODEX SA](https://github.com/codexsadev) como parte del equipo de desarrollo.\
+💡 &nbsp;Soy desarrolladora web y mobile, y actualmente estoy trabajando para [Mood Technology]() como parte del equipo de desarrollo.\
 🎓 &nbsp;Soy autodidacta. En este momento me encuentro haciendo la carrera de desarrollo full stack de manera online.\
 🌱 &nbsp;En mi tiempo libre leo, dibujo, hago modelados de miniaturas con porcelana fria, juego partidas de rol de mesa y juego videojuegos como pasatiempos.\
 💬 &nbsp;¡No dude en comunicarse conmigo para consultas generales o discusiones sobre los temas antes mencionados!\
