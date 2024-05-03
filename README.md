@@ -7,8 +7,8 @@ Hola soy Gretel!
  
 ### 👩‍🦰 &nbsp;Sobre mi
 
-💡 &nbsp;Soy desarrolladora web y mobile, y actualmente estoy trabajando para [Mood Technology]() como parte del equipo de desarrollo.\
-🎓 &nbsp;Soy autodidacta. En este momento me encuentro haciendo la carrera de desarrollo full stack de manera online.\
+💡 &nbsp;Soy desarrolladora web y mobile, y actualmente estoy trabajando para [Prex]() como parte del equipo de desarrollo backend.\
+🎓 &nbsp;En 2022 me recibí de Tecnica Superior en Desarrollo de Software.\
 🌱 &nbsp;En mi tiempo libre leo, dibujo, hago modelados de miniaturas con porcelana fria, juego partidas de rol de mesa y juego videojuegos como pasatiempos.\
 💬 &nbsp;¡No dude en comunicarse conmigo para consultas generales o discusiones sobre los temas antes mencionados!\
 ✉️ &nbsp;Puede enviarme un correo electrónico a gretelbarrios.dev@gmail.com. ¡Intentaré responder lo antes posible!
